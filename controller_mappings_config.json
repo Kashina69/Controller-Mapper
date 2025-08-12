@@ -1,0 +1,35 @@
+{
+  "left_stick_up": "W",
+  "left_stick_down": "S",
+  "left_stick_left": "A",
+  "left_stick_right": "D",
+
+  "right_stick_up": "mouse_up",
+  "right_stick_down": "mouse_down",
+  "right_stick_left": "mouse_left",
+  "right_stick_right": "mouse_right",
+
+  "cross": "mouse_left",
+  "circle": "mouse_right",
+  "square": "R",
+  "triangle": "E",
+
+  "l1": "Shift",
+  "r1": "Ctrl",
+  "l2": "mouse_left",
+  "r2": "mouse_right",
+  "l3": "p",
+  "r3": "o",
+
+  "dpad_up": "1",
+  "dpad_down": "2",
+  "dpad_left": "3",
+  "dpad_right": "4",
+
+  "start": "Enter",
+  "select": "Esc",
+
+  "deadzone": 0.25,
+  "mouse_sensitivity": 14.0,
+  "hold_mode_buttons": true
+}
