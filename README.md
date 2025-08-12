@@ -42,8 +42,8 @@ project/
 ### 1️⃣ Clone the Repository 
 
 ```bash
-git clone https://github.com/Kashina69/Controller Mapper.git
-cd Controller Mapper/
+git clone https://github.com/Kashina69/Controller-Mapper.git
+cd Controller-Mapper/
 ```
 
 ### 2️⃣ Compile ( Optional ) ( only when you are making change in the code but not in the config )
